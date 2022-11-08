@@ -1,1 +1,1 @@
-# Battleship game coded in Java, created in Eclipse 
+# Java Projects
